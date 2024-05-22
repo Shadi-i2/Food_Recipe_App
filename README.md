@@ -1,2 +1,2 @@
-# Food_Recipe_App-
+# Food_Recipe_App
 Technologies Used : Html - Css - JavaScript - Api
